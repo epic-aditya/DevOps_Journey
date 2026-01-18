@@ -1,0 +1,6 @@
+# Keep shell scripts LF (Linux-style)
+*.sh text eol=lf
+
+# Markdown + txt keep LF
+*.md text eol=lf
+*.txt text eol=lf
